@@ -1,0 +1,22 @@
+{
+  "name": "git-_-este",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "keywords": [
+    "13052019Ph"
+  ],
+  "author": "pedro lucas",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "git-_-este": "file:"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
